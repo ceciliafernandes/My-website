@@ -1,0 +1,25 @@
+h1{
+  color: red;
+}
+td.painting{
+  padding: 50px 50px 0px 50px;
+  text-align: center;
+}
+th{
+  font-weight: bold;
+  font-size: 30px;
+  font-family: sans-serif; Verdana;
+}
+td.title{
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  font-style: italic;
+}
+td.size{
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+}
+td.medium{
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+}
